@@ -1,0 +1,21 @@
+patient_id,sex,birth_year,country,region,infection_reason,infection_order,infected_by,contact_number,confirmed_date,released_date,deceased_date,state
+1,male,1998,South Korea,Seoul,contact with patient,1,,12,2020-01-20,2020-02-05,,released
+2,female,1985,South Korea,Busan,travel abroad,2,1,8,2020-02-01,2020-02-16,,released
+3,male,1970,South Korea,Daegu,church cluster,3,2,20,2020-02-10,,2020-02-25,deceased
+4,female,1995,South Korea,Seoul,contact with patient,2,1,10,2020-02-12,2020-02-28,,released
+5,male,2001,South Korea,Incheon,travel abroad,1,,5,2020-02-15,2020-03-01,,released
+6,female,1990,South Korea,Daegu,church cluster,4,3,18,2020-02-18,,2020-03-02,deceased
+7,male,1988,South Korea,Busan,contact with patient,3,2,9,2020-02-20,2020-03-08,,released
+8,female,1975,South Korea,Seoul,hospital cluster,5,4,14,2020-02-22,2020-03-10,,released
+9,male,1968,South Korea,Daegu,church cluster,6,6,25,2020-02-25,,2020-03-12,deceased
+10,female,1999,South Korea,Incheon,travel abroad,2,5,7,2020-02-28,2020-03-15,,released
+11,male,1982,South Korea,Seoul,contact with patient,4,8,11,2020-03-01,2020-03-18,,released
+12,female,1993,South Korea,Busan,hospital cluster,3,7,13,2020-03-03,2020-03-20,,released
+13,male,1978,South Korea,Daegu,church cluster,5,9,19,2020-03-05,,2020-03-22,deceased
+14,female,2000,South Korea,Seoul,travel abroad,1,,6,2020-03-07,2020-03-22,,released
+15,male,1996,South Korea,Incheon,contact with patient,2,10,10,2020-03-10,2020-03-25,,released
+16,female,1987,South Korea,Busan,hospital cluster,4,12,15,2020-03-12,2020-03-28,,released
+17,male,1972,South Korea,Daegu,church cluster,7,13,22,2020-03-14,,2020-03-30,deceased
+18,female,1994,South Korea,Seoul,contact with patient,3,11,9,2020-03-16,2020-04-01,,released
+19,male,1989,South Korea,Incheon,travel abroad,2,14,8,2020-03-18,2020-04-02,,released
+20,female,1976,South Korea,Busan,hospital cluster,5,16,16,2020-03-20,2020-04-05,,released
